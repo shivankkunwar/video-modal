@@ -1,0 +1,8 @@
+ltx_outputs/
+fastwan_outputs/
+__pycache__/
+.venv/
+*.mp4
+*.png
+.env
+.DS_Store
